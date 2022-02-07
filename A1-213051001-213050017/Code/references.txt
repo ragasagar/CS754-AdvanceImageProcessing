@@ -1,0 +1,6 @@
+References:
+1. https://in.mathworks.com/help/stats/normrnd.html
+2. https://in.mathworks.com/matlabcentral/fileexchange/8028-mmread
+3. https://www.youtube.com/watch?v=aNqrXZlDZ2w
+4. https://in.mathworks.com/help/images/ref/mat2gray.html
+5. https://in.mathworks.com/matlabcentral/answers/76467-how-do-i-find-argmax
